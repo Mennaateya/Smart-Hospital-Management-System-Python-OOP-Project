@@ -1,5 +1,3 @@
-#!/bin/bash
-
 **Hospital Management System with Python 🏥💻**
 
 Hi there! 👋
