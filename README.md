@@ -1,6 +1,6 @@
 **Hospital Management System with Python 🏥💻**
 
-Hi there! 👋
+Hi there! 
 This is a simple but practical project I built to manage hospital operations, including patient records, doctor schedules, appointments, and billing, using Python and OOP concepts.
 
 ---
